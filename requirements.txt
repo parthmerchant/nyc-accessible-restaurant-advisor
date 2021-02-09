@@ -61,4 +61,3 @@ wrapt==1.12.1
 xlrd==1.2.0
 xlwt==1.3.0
 geoip2==4.1.0
-pygdal==3.2.1.6
