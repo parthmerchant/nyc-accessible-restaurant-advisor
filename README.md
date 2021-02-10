@@ -1,10 +1,13 @@
 ## Forked for deployment by parthmerchant
 
+https://tranquil-harbor-11260.herokuapp.com/
+
 ### How to run on Heroku:
 
 1. Clone Repository
 ```sh
 git clone <repo-name>
+cd <repo-name>
 ```
 
 2. Login to Heroku
